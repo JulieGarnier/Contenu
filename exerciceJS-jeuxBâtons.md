@@ -3,7 +3,8 @@
 ## Introduction 
 
 Votre déﬁ sera de réaliser le jeu des bâtons !  
-Le jeu des bâtons se joue à 2. A chaque tour, un joueur enlève un, deux ou trois bâtons. Le joueur qui enlève le dernier bâton a perdu.
+Le jeu des bâtons se joue à 2. A chaque tour, un joueur enlève un, deux ou trois bâtons. 
+Le joueur qui enlève le dernier bâton a perdu.
 
 ## Objectifs pédagogiques 
 * Lier les ﬁchiers HTML, CSS et JS ensemble
